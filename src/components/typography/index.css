@@ -1,0 +1,16 @@
+.typography {
+  text-indent: 1em;
+  margin: 15px;
+}
+
+.typography--sm {
+  font-size: 14px;
+}
+
+.typography--md {
+  font-size: 16px;
+}
+
+.typography--lg {
+  font-size: 18px;
+}
